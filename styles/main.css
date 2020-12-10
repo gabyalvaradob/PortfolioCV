@@ -2695,6 +2695,11 @@ nav {
   -webkit-text-stroke: 1px black;
 }
 
+#nombre{
+  font-size: 1.7rem;
+  -webkit-text-stroke: 1px black;
+}
+
 .clear-filter:after, .clear-filter:before {
   display: none;
 }

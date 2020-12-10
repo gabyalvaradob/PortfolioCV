@@ -44,7 +44,7 @@ $('a.smooth-scroll')
 
 $(function () {
   $('#fondo').vegas({
-    delay: 5000,
+    delay: 3500,
     timer: false,
     shuffle: true,
     firstTransition: 'fade',
