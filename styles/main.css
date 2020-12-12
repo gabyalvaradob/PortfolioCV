@@ -632,7 +632,7 @@ h1 small, .h1 small {
 }
 
 h2, .h2 {
-  font-size: 4em;
+  font-size: 3em;
   margin-bottom: 30px;
 }
 
@@ -689,7 +689,7 @@ p {
 }
 
 .title + .category {
-  margin-top: -25px;
+  margin-top: -40px;
 }
 
 .description,
@@ -2366,7 +2366,7 @@ Created using IcoMoon - icomoon.io
 
 .profile-page .title {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 24px;
 }
 
 .profile-page .description,
@@ -2696,7 +2696,7 @@ nav {
 }
 
 #nombre{
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   -webkit-text-stroke: 1px black;
 }
 
@@ -4584,8 +4584,8 @@ nav {
   content: "";
   border: 15px solid #8932C3;
   border-radius: 50%;
-  height: 230px;
-  width: 230px;
+  height: 200px;
+  width: 200px;
   position: absolute;
   left: 0;
   -webkit-animation: pulsate 1.6s ease-out;
@@ -4599,8 +4599,8 @@ nav {
 .cc-profile-image img {
   position: relative;
   border-radius: 50%;
-  height: 230px;
-  width: 230px;
+  height: 200px;
+  width: 200px;
   padding: 0;
   margin: 0;
   border: 15px solid transparent;
